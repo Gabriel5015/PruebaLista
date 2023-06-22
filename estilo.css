@@ -1,0 +1,11 @@
+body{
+    color: crimson;
+    background-color: hsl(123, 100%, 50%);
+}
+
+ul{
+    list-style: none;}
+
+    li{
+    display: inline-block;
+}
